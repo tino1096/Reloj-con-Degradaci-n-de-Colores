@@ -1,0 +1,14 @@
+{
+  "name": "@oxydum/gradient-clock",
+  "main": "c2300b28455dd7a7@230.js",
+  "version": "230.0.0",
+  "homepage": "https://observablehq.com/@oxydum/gradient-clock",
+  "author": {
+    "name": "Jean Bernard FRANCOIS",
+    "url": "https://observablehq.com/@oxydum"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
